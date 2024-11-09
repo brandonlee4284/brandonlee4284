@@ -1,4 +1,4 @@
-## Hi there, I'm Brandon Lee 👋 <br> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/brandon-lee-8037b1251/])  
+## Hi there, I'm Brandon Lee 👋 <br> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-lee-8037b1251/)  
 
 👨‍🎓 Junior in Computer Science with a Statistics minor at the University of Maryland College Park.
 
